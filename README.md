@@ -1,7 +1,7 @@
 # Project Description
 ## CS 4400 Intro to Databases
 
-*Had 3 other colaborators who are listed on each script.*
+*Had 3 other collaborators who are listed on each script.*
 
 ### Problem Description & Motivation
 The following is a text description of the system you are being tasked with developing. The system requirements – explicit and implicit – are included in this document, and they need to be identified and reflected in your system (i.e., source code), and in the associated design documents as required by the assignment instructions.
